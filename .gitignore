@@ -1,0 +1,6 @@
+hex-voice-recorder
+.vfs.yaml
+.empty.modulemap
+*.wav
+*.flac
+.DS_Store
